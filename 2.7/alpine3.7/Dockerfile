@@ -1,4 +1,4 @@
-FROM python:2.7-alpine3.7
+FROM python:2.7.15-alpine3.7
 LABEL maintainer="iamzhouu@gmail.com"
 
 # -- Install Pipenv:
